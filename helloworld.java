@@ -7,7 +7,7 @@ public class helloworld{
 	//prints, "welcome to git", in the terminal window.
 	System.out.println("Welcome to GIT");
 
-	//prints "Welcome to branching"
-	System.out.println("Welcome to Branching");
+	//prints "Welcome to feature branching workflow"
+	System.out.println("Welcome to Feature  Branching Workflow");
 	}
 }
